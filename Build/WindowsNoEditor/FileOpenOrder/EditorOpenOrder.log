@@ -1805,20 +1805,20 @@
 "../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 1805
 "../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Intermediate/AssetRegistryCache/311563bb.bin" 1806
 "../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Intermediate/AssetRegistryCache/c90e3f55.bin" 1807
-"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Blueprint/BP_Block.uasset" 1808
-"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Blueprint/BP_Player.uasset" 1809
-"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Level/Game.umap" 1810
-"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Level/Intro.umap" 1811
-"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Level/MainMenu.umap" 1812
-"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Media/Sound/3.uasset" 1813
-"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Media/Sound/Creak1.uasset" 1814
-"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Media/Sound/Creak2.uasset" 1815
-"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Media/Sound/Creak3.uasset" 1816
-"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Media/Sound/Fall.uasset" 1817
-"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Media/Sound/Game.uasset" 1818
-"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Media/Sound/Hit.uasset" 1819
-"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Media/Sound/Intro.uasset" 1820
-"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Media/Sound/Menu.uasset" 1821
+"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Blueprint/BP_Player.uasset" 1808
+"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Materials/Black.uasset" 1809
+"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Materials/Body.uasset" 1810
+"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Materials/Broom.uasset" 1811
+"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Materials/Hands.uasset" 1812
+"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Materials/Head.uasset" 1813
+"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Materials/Trash.uasset" 1814
+"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Materials/White.uasset" 1815
+"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Materials/Yellow.uasset" 1816
+"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Meshes/Monster.uasset" 1817
+"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Meshes/Player.uasset" 1818
+"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Level/Game.umap" 1819
+"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Level/Game_BuiltData.uasset" 1820
+"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Level/Intro.umap" 1821
 "../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 1822
 "../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 1823
 "../../../Engine/Content/BasicShapes/Cube.uasset" 1824
@@ -1845,186 +1845,179 @@
 "../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Materials/Ball.uasset" 1845
 "../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Textures/Ball.uasset" 1846
 "../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/UI/HUD.uasset" 1847
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 1848
-"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Meshes/Player.uasset" 1849
-"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Materials/beige.uasset" 1850
-"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Materials/black.uasset" 1851
-"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Materials/Gray.uasset" 1852
-"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Materials/Gray_dark.uasset" 1853
-"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Materials/green.uasset" 1854
-"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Materials/Red.uasset" 1855
-"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Materials/Yellow.uasset" 1856
-"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Materials/Yellow_dark.uasset" 1857
-"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Materials/Box.uasset" 1858
-"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Textures/box.uasset" 1859
-"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Materials/Box_cracked.uasset" 1860
-"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Textures/box_cracked.uasset" 1861
-"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/UI/GoodG.uasset" 1862
-"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Textures/Finish_game.uasset" 1863
-"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/UI/BadG.uasset" 1864
-"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Textures/Losing_game.uasset" 1865
-"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/UI/PauseMenu.uasset" 1866
+"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Media/Sound/Fall.uasset" 1848
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 1849
+"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Blueprint/BP_Block.uasset" 1850
+"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Materials/Box.uasset" 1851
+"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Textures/box.uasset" 1852
+"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Materials/Box_cracked.uasset" 1853
+"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Textures/box_cracked.uasset" 1854
+"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Media/Sound/Creak1.uasset" 1855
+"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Media/Sound/Creak2.uasset" 1856
+"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Media/Sound/Creak3.uasset" 1857
+"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Media/Sound/Hit.uasset" 1858
+"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/UI/GoodG.uasset" 1859
+"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Textures/Finish_game.uasset" 1860
+"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/UI/BadG.uasset" 1861
+"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Textures/Losing_game.uasset" 1862
+"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/UI/PauseMenu.uasset" 1863
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/0/STATICMESH_9891BF2FF72141F6921E24E347DB73C1_228332BAE0224DD294E232B87D83948FQU__08929DF90538D9A9943EA43098F203C83279B4DE.udd" 1864
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/3/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_6B830D5C41A573A9BF5CFDA8CEC8B64__1E80D1999AF7A58809B302DB067F7AF90CFC5187.udd" 1865
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/4/AUDIO_0005_0000_OGG_0002_9ED8C16E4450D34F5319938F5310F960.udd" 1866
 "C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/6/AUDIO_0005_0000_OGG_0002_F399554E4CB17A4CEA12A1A08D0C0C5D.udd" 1867
 "C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/0/7/AUDIO_0005_0000_OGG_0002_D3F0C122477BC4691801B89094437FEE.udd" 1868
 "C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/0/AUDIO_0005_0000_OGG_0002_CB96314B4C0E9258FB474C81BC0ECF42.udd" 1869
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/8/STATICMESH_9891BF2FF72141F6921E24E347DB73C1_228332BAE0224DD294E232B87D83948FQU__EE36FCD912F422591E064F1C290F6DD8821610AB.udd" 1870
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/6/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_F77BD6D3442D778E1__2E2F38715C29CD1AE2AE1DE0BED9D11C6D2DAB76.udd" 1871
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/4/AUDIO_0005_0000_OGG_0002_9ED8C16E4450D34F5319938F5310F960.udd" 1872
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/2/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_F77BD6D3442D778E1ADEC38C6E9549E__8B874F4BC904034C0544FF5193AD09E15973EC4D.udd" 1873
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/6/AUDIO_0005_0000_OGG_0002_FFA1CC304A74BBAFE20F668D4F84AE86.udd" 1874
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_D7A918BE4527306758484AA820A4A__7B46B843E006A2D749C6AE309E27B9AA36F973F7.udd" 1875
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/6/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_84B828DE4E8B0CEB4AF529B364618__A9A472C037E5BC0F00C877B14CCDF2D608F5C98B.udd" 1876
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_4F17EBF942C1D6E10CEADA80D1242__05B7C9C7D4A4AE6309C2E466D82176E90BDC4699.udd" 1877
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_4F17EBF942C1D6E10CEADA80D1242__663EA4BB3A593078C4D098DF35D2D76D92CCB4CE.udd" 1878
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_4F17EBF942C1D6E10CEADA80D1242__121184111581A5C2D797B380C1047DAC02A10945.udd" 1879
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_4F17EBF942C1D6E10CEADA80D1242__EDB4A7A3BCD63D73E1A5974AE195FCB9D8996E3F.udd" 1880
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_4F17EBF942C1D6E10CEADA80D1242__0B3B2BB8C772E832BC335AB6137619AC829E6FBB.udd" 1881
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/2/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___D28768F7326F92829BC7D13960DDC4E4DCBF5930.udd" 1882
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/6/4/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM4_8__BC5N_NOCCBN_NOIRIS_DEV_SL___8DA38465434D42E402F49F4CF92B6DBB9754F17F.udd" 1883
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_15ABEFC041115D48320482BF348E0__47D5185EF250210FEA7149FE54FD60019162E453.udd" 1884
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_15ABEFC041115D48320482BF348E0__51BFCB35C205CCE1A217ACE3C59C191B19AF3709.udd" 1885
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_15ABEFC041115D48320482BF348E0__0DFF30EE891732F959A92CB89C01492F6616683B.udd" 1886
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_15ABEFC041115D48320482BF348E0__71C98E7758F4A2120B1154CE7F64BE7FAB1D4796.udd" 1887
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_15ABEFC041115D48320482BF348E0__A7E1CED6BC91224AFC0125B25FA0BE24A69FE8F6.udd" 1888
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/9/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___E3B4B8DBBA5D44E085C3FAA5DC1B6276E9160302.udd" 1889
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/3/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM4_8__BC5N_NOCCBN_NOIRIS_DEV_SL___D5CD2A47362B2210D0934D1A9A0BDABC9994B239.udd" 1890
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/8/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___1A98874FA662A38766C0CDA48E52BD1698F74453.udd" 1891
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/8/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM4_8__BC5N_NOCCBN_NOIRIS_DEV_SL___68F6CCECE48CA4FCB906F9C468A1899CE709613C.udd" 1892
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/1/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___12A95C8290764E8E06D06C4F05CD69E09B03FA56.udd" 1893
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/6/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM4_8__BC5N_NOCCBN_NOIRIS_DEV_SL___1946293F98A6C0AA2D044621791B7B7DE40B5949.udd" 1894
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/2/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___EAFA6AE5FA2CD739B252B78C657C495E5AFA8652.udd" 1895
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/3/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM4_8__BC5N_NOCCBN_NOIRIS_DEV_SL___7AC4EF521689D6C05E5AACE4A06C6DD0484EE734.udd" 1896
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/4/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___55F89BEF8183C737FA1EFC9DFE936C89D7435BA4.udd" 1897
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/8/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM4_8__BC5N_NOCCBN_NOIRIS_DEV_SL___32F95608AA6970A4A2496DD5573C670BCC28667E.udd" 1898
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/5/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___A7B468DED818C071C2F28D1734364CECA43F3BB0.udd" 1899
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/8/6/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM4_8__BC5N_NOCCBN_NOIRIS_DEV_SL___DB0C43921FEEF03DF72078D3C0FF26C84C513A13.udd" 1900
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/4/0/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___2531E82B73E06E0DAD7C7DEE95DB2889793A5285.udd" 1901
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/5/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM4_8__BC5N_NOCCBN_NOIRIS_DEV_SL___536C0A77B1D8FE50F2C93A43EC52CE3B5228F03B.udd" 1902
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/2/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___FB6ABAE1AEA574222293D633968FD21F90EC5B57.udd" 1903
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/5/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM4_8__BC5N_NOCCBN_NOIRIS_DEV_SL___EF49A7AF06338290CFC4B50870FC03CE05B7AC1E.udd" 1904
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/2/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___89E38335C2B91A8D718568C194371A78E9393C89.udd" 1905
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/2/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM4_8__BC5N_NOCCBN_NOIRIS_DEV_SL___22B20BC04DC3E66B6217C364D46E92830F0CEE7F.udd" 1906
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/0/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___30CF02FA972CC3344799C953A4C44B91F624C5FA.udd" 1907
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/0/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM4_8__BC5N_NOCCBN_NOIRIS_DEV_SL___08B7D3781678181A54E6DDA889EEEE4C6E1F8E0A.udd" 1908
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_48F77D72405023EBE8B978B41573C__E78CC3CD77DA8FE2D293F4E51140EDB1D9361F44.udd" 1909
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/3/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_48F77D72405023EBE8B978B41573C__E6578E2B0736FFD436B3CFA07C7E464003195515.udd" 1910
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_48F77D72405023EBE8B978B41573C__ED9B081262A349B90768870C6FDCE005E6152FEA.udd" 1911
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_48F77D72405023EBE8B978B41573C__2C01E12B2D6A1998AF8D6F6593537019D93F3316.udd" 1912
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/5/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___0EB26F7BFD9155A83D773119D6E96AA342B02CD5.udd" 1913
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/5/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM4_8__BC5N_NOCCBN_NOIRIS_DEV_SL___FAD636FDB4C1127BD4F29D224035699C3EA0B9BD.udd" 1914
-"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/UI/Intro.uasset" 1915
-"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Textures/Intro.uasset" 1916
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/7/AUDIO_0005_0000_OGG_0002_BA0DC9804C327315809ECB810C6AE8C4.udd" 1917
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/5/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_20355C9247348D8845CBA1911EF0C__FD9D2658720111AA53EAC35AC0BC4ED95F6B9DE3.udd" 1918
-"../../../Engine/Content/EditorResources/EmptyActor.uasset" 1919
-"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 1920
-"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 1921
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 1922
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 1923
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 1924
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 1925
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 1926
-"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 1927
-"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 1928
-"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 1929
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 1930
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 1931
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 1932
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 1933
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 1934
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 1935
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 1936
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 1937
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 1938
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 1939
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 1940
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 1941
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 1942
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 1943
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 1944
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 1945
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 1946
-"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/UI/Video.uasset" 1947
-"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/UI/MainMenu.uasset" 1948
-"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Textures/Background.uasset" 1949
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_309996F841FF8CCA4B35C6BACA9C6__3B72306F283A70C251544A56B1852374B6D51C12.udd" 1950
-"../../../Engine/Content/Maps/Entry.umap" 1951
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1952
-"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Level/MainMenu_BuiltData.uasset" 1953
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/2/AUDIO_0005_0000_OGG_0002_4DE460CF45E0574D390FF7BE6EAD6185.udd" 1954
-"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Blueprint/BP_Flash.uasset" 1955
-"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Materials/Flash.uasset" 1956
-"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Textures/Flash.uasset" 1957
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 1958
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 1959
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 1960
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 1961
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 1962
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 1963
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 1964
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 1965
-"../../../Engine/Content/MapTemplates/Sky/M_Procedural_Sky_MASTER02.uasset" 1966
-"../../../Engine/Content/MapTemplates/Sky/T_Sky_Stars.uasset" 1967
-"../../../Engine/Content/MapTemplates/Sky/T_UDK_Sky_CloudMask01_N.uasset" 1968
-"../../../Engine/Content/MapTemplates/T_UDK_Sky_CloudMask03.uasset" 1969
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 1970
-"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Blueprint/BP_BlockGenerator.uasset" 1971
-"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Level/Game_BuiltData.uasset" 1972
-"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Materials/Floor.uasset" 1973
-"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Textures/floor.uasset" 1974
-"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Materials/wall.uasset" 1975
-"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Textures/Wall/Wall_diff.uasset" 1976
-"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Textures/Wall/Wall_dx.uasset" 1977
-"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Textures/Wall/Wall_rough.uasset" 1978
-"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 1979
-"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Materials/floor_Mat.uasset" 1980
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/7/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_388496A0414C94488C28948153A483F7__1_0_0_0_2_13315_0.udd" 1981
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/7/STATICMESH_9891BF2FF72141F6921E24E347DB73C1_228332BAE0224DD294E232B87D83948FQU__6FCBF7E200984B6DF57E6BD5B0A182B80A490BB5.udd" 1982
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/9/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_EF845104499592D5A__86A30CF5174531FA02150C7B9290FE2C6202A8BC.udd" 1983
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/2/AUDIO_0005_0000_OGG_0002_A00F52EC46BF89DB03FDF8A77C52C0C5.udd" 1984
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/3/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_EF845104499592D5A5E48E8F1A87436__FCA0729445C117FE4B5903E577CD308B177BC030.udd" 1985
-"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 1986
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_741A6773472768A80246ABA42525E__1F5D944D2555677D1777BDEC2808644F7FBA5F64.udd" 1987
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_741A6773472768A80246ABA42525E__60BE30DB085C11298A880AE4E6E28AD3E8BF87C6.udd" 1988
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_741A6773472768A80246ABA42525E__2273272C81D451E0E962F5109DF858D47A6F5461.udd" 1989
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/6/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_741A6773472768A80246ABA42525E__E8DEE62E615679B557BDB39AC8DB9A9D261257FF.udd" 1990
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_741A6773472768A80246ABA42525E__883FA26B01F4C188880DA70C4A0A9C40FAC525AB.udd" 1991
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_741A6773472768A80246ABA42525E__8F6AD1F99A8AE1C001D9F566A559C067FFE0DD4C.udd" 1992
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_741A6773472768A80246ABA42525E__705A4F779BAAADB35A5AE4EB54EDC50E88819795.udd" 1993
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/8/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_B3615FEF4C743F3D8F076A946A73A30A___AEBD25875C9F28578897C85AF22EE1F751191F62.udd" 1994
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_B3615FEF4C743F3D8F076A946A73A30A___F168E66E391AD010F8539E30EA37FFEBBA32B5A1.udd" 1995
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_B3615FEF4C743F3D8F076A946A73A30A___97B186BD17C2B9739FF43F6A68C0143E3256A20C.udd" 1996
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/6/AUDIO_0005_0000_OGG_0002_FFA1CC304A74BBAFE20F668D4F84AE86.udd" 1870
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_D7A918BE4527306758484AA820A4A__7B46B843E006A2D749C6AE309E27B9AA36F973F7.udd" 1871
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/6/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_84B828DE4E8B0CEB4AF529B364618__A9A472C037E5BC0F00C877B14CCDF2D608F5C98B.udd" 1872
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_4F17EBF942C1D6E10CEADA80D1242__05B7C9C7D4A4AE6309C2E466D82176E90BDC4699.udd" 1873
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_4F17EBF942C1D6E10CEADA80D1242__121184111581A5C2D797B380C1047DAC02A10945.udd" 1874
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_4F17EBF942C1D6E10CEADA80D1242__EDB4A7A3BCD63D73E1A5974AE195FCB9D8996E3F.udd" 1875
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_4F17EBF942C1D6E10CEADA80D1242__663EA4BB3A593078C4D098DF35D2D76D92CCB4CE.udd" 1876
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/2/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___D28768F7326F92829BC7D13960DDC4E4DCBF5930.udd" 1877
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_4F17EBF942C1D6E10CEADA80D1242__0B3B2BB8C772E832BC335AB6137619AC829E6FBB.udd" 1878
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/6/4/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM4_8__BC5N_NOCCBN_NOIRIS_DEV_SL___8DA38465434D42E402F49F4CF92B6DBB9754F17F.udd" 1879
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_15ABEFC041115D48320482BF348E0__47D5185EF250210FEA7149FE54FD60019162E453.udd" 1880
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/9/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___E3B4B8DBBA5D44E085C3FAA5DC1B6276E9160302.udd" 1881
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_15ABEFC041115D48320482BF348E0__51BFCB35C205CCE1A217ACE3C59C191B19AF3709.udd" 1882
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_15ABEFC041115D48320482BF348E0__0DFF30EE891732F959A92CB89C01492F6616683B.udd" 1883
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_15ABEFC041115D48320482BF348E0__A7E1CED6BC91224AFC0125B25FA0BE24A69FE8F6.udd" 1884
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_15ABEFC041115D48320482BF348E0__71C98E7758F4A2120B1154CE7F64BE7FAB1D4796.udd" 1885
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/3/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM4_8__BC5N_NOCCBN_NOIRIS_DEV_SL___D5CD2A47362B2210D0934D1A9A0BDABC9994B239.udd" 1886
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/1/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___E627B6F8A7A64ABECA57694845C10074754E7755.udd" 1887
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/2/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___F90578E54D897FB651E14FD3D899520455D51C1B.udd" 1888
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/5/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___85754CB6AEFE0AF662BA8A4E33B1823424675132.udd" 1889
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/2/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___AF9948450A515C439EFC192A60EA4712738CB34B.udd" 1890
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/6/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___E28E9864F7EC1A058F3C1B36E2C887E981203E7B.udd" 1891
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/7/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___E7D759C172102F81C87006516838405CB2128305.udd" 1892
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/1/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___447BA6AE6E055E01D11228D6A612E5A33531BE30.udd" 1893
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/3/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___511F2E8C5021F4891FF12638AA403AA17432CC47.udd" 1894
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/0/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___30CF02FA972CC3344799C953A4C44B91F624C5FA.udd" 1895
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/0/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM4_8__BC5N_NOCCBN_NOIRIS_DEV_SL___08B7D3781678181A54E6DDA889EEEE4C6E1F8E0A.udd" 1896
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_48F77D72405023EBE8B978B41573C__E78CC3CD77DA8FE2D293F4E51140EDB1D9361F44.udd" 1897
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/5/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___0EB26F7BFD9155A83D773119D6E96AA342B02CD5.udd" 1898
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_48F77D72405023EBE8B978B41573C__2C01E12B2D6A1998AF8D6F6593537019D93F3316.udd" 1899
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_48F77D72405023EBE8B978B41573C__ED9B081262A349B90768870C6FDCE005E6152FEA.udd" 1900
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/3/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_48F77D72405023EBE8B978B41573C__E6578E2B0736FFD436B3CFA07C7E464003195515.udd" 1901
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/5/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM4_8__BC5N_NOCCBN_NOIRIS_DEV_SL___FAD636FDB4C1127BD4F29D224035699C3EA0B9BD.udd" 1902
+"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Media/Sound/Intro.uasset" 1903
+"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/UI/Intro.uasset" 1904
+"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Textures/Intro.uasset" 1905
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/7/AUDIO_0005_0000_OGG_0002_BA0DC9804C327315809ECB810C6AE8C4.udd" 1906
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 1907
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 1908
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/5/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_20355C9247348D8845CBA1911EF0C__FD9D2658720111AA53EAC35AC0BC4ED95F6B9DE3.udd" 1909
+"C:/Users/Pelmeshka/AppData/Local/Temp/UnrealShaderWorkingDir/D0A1856B4E99E3CD9656D9AD5AD718A4/7/WorkerOutputOnly.out" 1910
+"C:/Users/Pelmeshka/AppData/Local/Temp/UnrealShaderWorkingDir/D0A1856B4E99E3CD9656D9AD5AD718A4/3/WorkerOutputOnly.out" 1911
+"C:/Users/Pelmeshka/AppData/Local/Temp/UnrealShaderWorkingDir/D0A1856B4E99E3CD9656D9AD5AD718A4/1/WorkerOutputOnly.out" 1912
+"C:/Users/Pelmeshka/AppData/Local/Temp/UnrealShaderWorkingDir/D0A1856B4E99E3CD9656D9AD5AD718A4/5/WorkerOutputOnly.out" 1913
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 1914
+"C:/Users/Pelmeshka/AppData/Local/Temp/UnrealShaderWorkingDir/D0A1856B4E99E3CD9656D9AD5AD718A4/4/WorkerOutputOnly.out" 1915
+"C:/Users/Pelmeshka/AppData/Local/Temp/UnrealShaderWorkingDir/D0A1856B4E99E3CD9656D9AD5AD718A4/0/WorkerOutputOnly.out" 1916
+"C:/Users/Pelmeshka/AppData/Local/Temp/UnrealShaderWorkingDir/D0A1856B4E99E3CD9656D9AD5AD718A4/2/WorkerOutputOnly.out" 1917
+"C:/Users/Pelmeshka/AppData/Local/Temp/UnrealShaderWorkingDir/D0A1856B4E99E3CD9656D9AD5AD718A4/6/WorkerOutputOnly.out" 1918
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 1919
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 1920
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 1921
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 1922
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 1923
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 1924
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 1925
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 1926
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 1927
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 1928
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 1929
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 1930
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 1931
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 1932
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 1933
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 1934
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 1935
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 1936
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 1937
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 1938
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 1939
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 1940
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 1941
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 1942
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 1943
+"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/UI/MainMenu.uasset" 1944
+"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Textures/Background.uasset" 1945
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_309996F841FF8CCA4B35C6BACA9C6__3B72306F283A70C251544A56B1852374B6D51C12.udd" 1946
+"../../../Engine/Content/Maps/Entry.umap" 1947
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1948
+"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Level/MainMenu.umap" 1949
+"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Level/MainMenu_BuiltData.uasset" 1950
+"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Media/Sound/Menu.uasset" 1951
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/2/AUDIO_0005_0000_OGG_0002_4DE460CF45E0574D390FF7BE6EAD6185.udd" 1952
+"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Blueprint/BP_Flash.uasset" 1953
+"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Materials/Flash.uasset" 1954
+"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Textures/Flash.uasset" 1955
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 1956
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 1957
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 1958
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 1959
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 1960
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 1961
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 1962
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 1963
+"../../../Engine/Content/MapTemplates/Sky/M_Procedural_Sky_MASTER02.uasset" 1964
+"../../../Engine/Content/MapTemplates/Sky/T_Sky_Stars.uasset" 1965
+"../../../Engine/Content/MapTemplates/Sky/T_UDK_Sky_CloudMask01_N.uasset" 1966
+"../../../Engine/Content/MapTemplates/T_UDK_Sky_CloudMask03.uasset" 1967
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 1968
+"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Blueprint/BP_BlockGenerator.uasset" 1969
+"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Materials/Floor.uasset" 1970
+"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Textures/floor.uasset" 1971
+"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Materials/wall.uasset" 1972
+"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Textures/Wall/Wall_diff.uasset" 1973
+"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Textures/Wall/Wall_dx.uasset" 1974
+"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Textures/Wall/Wall_rough.uasset" 1975
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 1976
+"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Media/Sound/Game.uasset" 1977
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/2/AUDIO_0005_0000_OGG_0002_A00F52EC46BF89DB03FDF8A77C52C0C5.udd" 1978
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/7/STATICMESH_9891BF2FF72141F6921E24E347DB73C1_228332BAE0224DD294E232B87D83948FQU__6FCBF7E200984B6DF57E6BD5B0A182B80A490BB5.udd" 1979
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/9/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_EF845104499592D5A__86A30CF5174531FA02150C7B9290FE2C6202A8BC.udd" 1980
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/3/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_EF845104499592D5A5E48E8F1A87436__FCA0729445C117FE4B5903E577CD308B177BC030.udd" 1981
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/7/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_388496A0414C94488C28948153A483F7__1_0_0_0_2_13315_0.udd" 1982
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 1983
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_0E133C18445989D9D98B429C3FB5CFC__3FE27601C79454C50B46A88B2D6A56A18DB51522.udd" 1984
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_741A6773472768A80246ABA42525E__1F5D944D2555677D1777BDEC2808644F7FBA5F64.udd" 1985
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_741A6773472768A80246ABA42525E__60BE30DB085C11298A880AE4E6E28AD3E8BF87C6.udd" 1986
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_741A6773472768A80246ABA42525E__2273272C81D451E0E962F5109DF858D47A6F5461.udd" 1987
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_741A6773472768A80246ABA42525E__705A4F779BAAADB35A5AE4EB54EDC50E88819795.udd" 1988
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/6/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_741A6773472768A80246ABA42525E__E8DEE62E615679B557BDB39AC8DB9A9D261257FF.udd" 1989
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_741A6773472768A80246ABA42525E__883FA26B01F4C188880DA70C4A0A9C40FAC525AB.udd" 1990
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_741A6773472768A80246ABA42525E__8F6AD1F99A8AE1C001D9F566A559C067FFE0DD4C.udd" 1991
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/8/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_B3615FEF4C743F3D8F076A946A73A30A___AEBD25875C9F28578897C85AF22EE1F751191F62.udd" 1992
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_9D6D9091400307244DEEA5AD387C2__3F98E536B4748F890C1868B3E83F8B6B059334CA.udd" 1993
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/5/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___F90A4075B389AD70E33C002DF7569231BAF044EC.udd" 1994
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_B3615FEF4C743F3D8F076A946A73A30A___97B186BD17C2B9739FF43F6A68C0143E3256A20C.udd" 1995
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_B3615FEF4C743F3D8F076A946A73A30A___F168E66E391AD010F8539E30EA37FFEBBA32B5A1.udd" 1996
 "C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_B3615FEF4C743F3D8F076A946A73A30A___7919CA74BF7A14DC364E3DFCB9C5BC32220A43DC.udd" 1997
 "C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_B3615FEF4C743F3D8F076A946A73A30A___9A5E58AED2F021E7E6FD5C98C26F632A13D46217.udd" 1998
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/5/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_B3615FEF4C743F3D8F076A946A73A30A___CC698037CB9CF9328911216E5A21BFCCFC30A5C4.udd" 1999
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_B3615FEF4C743F3D8F076A946A73A30A___615DDAE809A991019DFC121D737FEB0BAB56744C.udd" 2000
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_9D6D9091400307244DEEA5AD387C2__3F98E536B4748F890C1868B3E83F8B6B059334CA.udd" 2001
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_9D6D9091400307244DEEA5AD387C2__86E188F05F6E5532ECFB64C39996C192D21690F6.udd" 2002
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_9D6D9091400307244DEEA5AD387C2__57345DEADF7ABA121CDCB346354733078156000C.udd" 2003
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_9D6D9091400307244DEEA5AD387C2__425FF4545C0703E40734498ED1CCED90EF5E65D3.udd" 2004
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_9D6D9091400307244DEEA5AD387C2__09AF3B89A49EA177472E172B1549738F8E0567D3.udd" 2005
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_9D6D9091400307244DEEA5AD387C2__1875F683045949BE0AF126C0EB7398BA2E4637B0.udd" 2006
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/5/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___F90A4075B389AD70E33C002DF7569231BAF044EC.udd" 2007
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_9D6D9091400307244DEEA5AD387C2__D575B547C61F126FF56BFD04052D29CC9634BF9A.udd" 2008
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/5/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM4_8__BC5N_NOCCBN_NOIRIS_DEV_SL___7B5CFD148E03F67819D2CC36A23527C376D1061F.udd" 2009
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_7857964E45329A75AB4AFCB265383__6981A80C988ABC8D022178C76F084A80999E0188.udd" 2010
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/1/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___CC7EE91E4B24D5D1BD990125F0E2D6C9A42F33A4.udd" 2011
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/3/9/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM4_8__BC5N_NOCCBN_NOIRIS_DEV_SL___4948ACC20753DCB8A7EB09589B15458799DE2E15.udd" 2012
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_C331F1D5498989D825B1C7985D245__2F98AA5B24173A04036D5B24E8EE3E8BAD3A03E3.udd" 2013
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_E357ADFA456B37A54230DC8CC0FA3__28C1DCA9AC9B70C823252854F2DFFF2984896432.udd" 2014
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_CDCFF2224A7423B70252499E1AD42F94__B8046F414166EEC1A78E3708F2C06A83F5E66505.udd" 2015
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_C331F1D5498989D825B1C7985D245__47D0660ED112C4D5F9A22BA5DA24843AB73CE8B4.udd" 2016
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_C331F1D5498989D825B1C7985D245__FA407CB09B154D62991EFDF68555753234A4C2DD.udd" 2017
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_49F477774A159D4E4F26C5A5A0D435F9__EB81E9F91B410CC2786961ECD9F2EA0799AB92E0.udd" 2018
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_1DE71ACB49320F9EE98D0D851A768CF2_0__111685C6C815ED9F12B36F45DDF923B447B7D91F.udd" 2019
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_CDCFF2224A7423B70252499E1AD42F94__53035F1CC7C2A070CA82AFB313FD7A4A758359B2.udd" 2020
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_CDCFF2224A7423B70252499E1AD42F94__767011AB03AB3E0AD85ECEACA2469292EF0D0670.udd" 2021
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_1DE71ACB49320F9EE98D0D851A768CF2_0__05EC1FC802A328B392B5A43B0F50A7769ABDD8EA.udd" 2022
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_1DE71ACB49320F9EE98D0D851A768CF2_0__A86CF96226DE5E4BB7CD9EF808E5704169969384.udd" 2023
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_0E133C18445989D9D98B429C3FB5CFC__3FE27601C79454C50B46A88B2D6A56A18DB51522.udd" 2024
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/8/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___D6BF2DBF699BFA1A75E72631357EA177DBB64EFB.udd" 2025
-"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/5/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM4_8__BC5N_NOCCBN_NOIRIS_DEV_SL___90FF2AA2745A8B4462DB963D2626982314B5AA94.udd" 2026
-"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Textures/Wall/cracked_concrete_wall_ao_4k_Mat.uasset" 2027
-"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Textures/floor_Mat.uasset" 2028
-"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Environment/Materials/cracked_concrete_wall_ao_4k_Mat.uasset" 2029
-"../../../../../../Pelmeshka/OneDrive - ITMO UNIVERSITY/?????????/Unreal Projects/Horror_arkanoid/Content/Blueprint/SpotLight_Blueprint.uasset" 2030
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_B3615FEF4C743F3D8F076A946A73A30A___615DDAE809A991019DFC121D737FEB0BAB56744C.udd" 1999
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/5/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_B3615FEF4C743F3D8F076A946A73A30A___CC698037CB9CF9328911216E5A21BFCCFC30A5C4.udd" 2000
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_9D6D9091400307244DEEA5AD387C2__425FF4545C0703E40734498ED1CCED90EF5E65D3.udd" 2001
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_9D6D9091400307244DEEA5AD387C2__1875F683045949BE0AF126C0EB7398BA2E4637B0.udd" 2002
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_9D6D9091400307244DEEA5AD387C2__86E188F05F6E5532ECFB64C39996C192D21690F6.udd" 2003
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_9D6D9091400307244DEEA5AD387C2__57345DEADF7ABA121CDCB346354733078156000C.udd" 2004
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/5/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM4_8__BC5N_NOCCBN_NOIRIS_DEV_SL___7B5CFD148E03F67819D2CC36A23527C376D1061F.udd" 2005
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_9D6D9091400307244DEEA5AD387C2__D575B547C61F126FF56BFD04052D29CC9634BF9A.udd" 2006
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_9D6D9091400307244DEEA5AD387C2__09AF3B89A49EA177472E172B1549738F8E0567D3.udd" 2007
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_7857964E45329A75AB4AFCB265383__6981A80C988ABC8D022178C76F084A80999E0188.udd" 2008
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/1/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___CC7EE91E4B24D5D1BD990125F0E2D6C9A42F33A4.udd" 2009
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/3/9/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM4_8__BC5N_NOCCBN_NOIRIS_DEV_SL___4948ACC20753DCB8A7EB09589B15458799DE2E15.udd" 2010
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_CDCFF2224A7423B70252499E1AD42F94__B8046F414166EEC1A78E3708F2C06A83F5E66505.udd" 2011
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_CDCFF2224A7423B70252499E1AD42F94__53035F1CC7C2A070CA82AFB313FD7A4A758359B2.udd" 2012
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_CDCFF2224A7423B70252499E1AD42F94__767011AB03AB3E0AD85ECEACA2469292EF0D0670.udd" 2013
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_49F477774A159D4E4F26C5A5A0D435F9__EB81E9F91B410CC2786961ECD9F2EA0799AB92E0.udd" 2014
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_C331F1D5498989D825B1C7985D245__2F98AA5B24173A04036D5B24E8EE3E8BAD3A03E3.udd" 2015
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_1DE71ACB49320F9EE98D0D851A768CF2_0__111685C6C815ED9F12B36F45DDF923B447B7D91F.udd" 2016
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_E357ADFA456B37A54230DC8CC0FA3__28C1DCA9AC9B70C823252854F2DFFF2984896432.udd" 2017
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_C331F1D5498989D825B1C7985D245__FA407CB09B154D62991EFDF68555753234A4C2DD.udd" 2018
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_1DE71ACB49320F9EE98D0D851A768CF2_0__05EC1FC802A328B392B5A43B0F50A7769ABDD8EA.udd" 2019
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_C331F1D5498989D825B1C7985D245__47D0660ED112C4D5F9A22BA5DA24843AB73CE8B4.udd" 2020
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_1DE71ACB49320F9EE98D0D851A768CF2_0__A86CF96226DE5E4BB7CD9EF808E5704169969384.udd" 2021
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/8/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___D6BF2DBF699BFA1A75E72631357EA177DBB64EFB.udd" 2022
+"C:/Users/Pelmeshka/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/5/MATSM_AD9DE195370D4C7DB112DF9967877D21_PCD3D_SM4_8__BC5N_NOCCBN_NOIRIS_DEV_SL___90FF2AA2745A8B4462DB963D2626982314B5AA94.udd" 2023
