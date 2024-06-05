@@ -6,4 +6,4 @@
 - 3D-Artist - Тетюева Мария
 - QA-инженер - Касьяненко Вера
 
-<img src="https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/282e494a-f1da-4bb5-89ac-05f809db0f93/1920x" alt="Monster House">
+<img src="docs/img.jpg" alt="Monster House">
